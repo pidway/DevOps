@@ -1,3 +1,6 @@
+![](http://pidway.com/wp-content/uploads/2020/05/logosinfondo.png)
+
+
 ## DevOps Avanzado 
 ## CaaS Despliegue y a automatizacion.
  
@@ -71,9 +74,9 @@ Una vez que accedas a la URL de Rancher debes esperar a que el cluster llamado q
 - Revisa los cambios en el dashboard de cluster
 
 
-0. Crear proyecto proyecto `Altiuz-dev`
+0. Crear proyecto proyecto `pidway-dev`
 
-0. Seleccionar el proyecto Altiuz-dev 
+0. Seleccionar el proyecto pidway-dev 
 
 Nota: Para activar el load balanced Layer 7 que se generan de forma automatica en rancher debes seguir las siguientes    instrucciones:
 
