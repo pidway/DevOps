@@ -120,6 +120,10 @@ Nota: Para activar el load balanced Layer 7 que se generan de forma automatica e
 
 ## comandos vagrant
 Para suspender todas o una VM `vagrant suspend` `vagrant suspend "nombrevm"`
+
+
 Para eliminar todas las VM dejes ejecutar. `vagrant destroy -f`
+
+
 Para recargar todas o una VM  `vagrant reload` `vagrant reload "nombrevm"
 
