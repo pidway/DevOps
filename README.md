@@ -125,5 +125,6 @@ Para suspender todas o una VM `vagrant suspend` `vagrant suspend "nombrevm"`
 Para eliminar todas las VM dejes ejecutar. `vagrant destroy -f`
 
 
-Para recargar todas o una VM  `vagrant reload` `vagrant reload "nombrevm"
+Para recargar todas o una VM  `vagrant reload` `vagrant reload "nombrevm"`
+
 
